@@ -653,6 +653,10 @@ ul,ol {
     width: 25%
 }
 
+.portfolio-intro {
+    padding-left: 60px
+}
+
 .portfolio-intro h2 {
     font-size: 60px;
     font-weight: 600;
@@ -1013,10 +1017,6 @@ ul,ol {
 @media(max-width: 1300px) {
     .main-menu {
         padding-right:80px
-    }
-
-    .portfolio-intro {
-        padding-left: 60px
     }
 
     .portfolio-intro h2 {
