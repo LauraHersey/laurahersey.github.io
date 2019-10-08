@@ -654,7 +654,7 @@ ul,ol {
 }
 
 .portfolio-intro {
-    padding: 0 60px 0
+    padding: 0 19px
 }
 
 .portfolio-intro h2 {
@@ -1285,10 +1285,6 @@ ul,ol {
 }
 
 @media only screen and (max-width: 479px) {
-    .portfolio-intro {
-        padding:0 15px 80px
-    }
-
     .portfolio-item {
         width: 100%
     }
