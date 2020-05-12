@@ -70,6 +70,14 @@ ul,ol {
     margin: 0
 }
 
+.contact-info p {
+    margin-bottom: 0;
+}
+
+.contact-info a {
+    text-decoration: underline;
+}
+
 .section-title {
     text-align: center
 }
